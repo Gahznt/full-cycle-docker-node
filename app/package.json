@@ -1,14 +1,13 @@
 {
-    "name": "node-nginx-mysql",
-    "version": "1.0.0",
-    "description": "Desafio Full Cycle com Nginx, Node.js e MySQL",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js"
-    },
-    "dependencies": {
-      "express": "^4.17.1",
-      "mysql2": "^2.3.3"
-    }
+  "name": "node-nginx-mysql",
+  "version": "1.0.0",
+  "description": "Desafio Full Cycle com Nginx, Node.js e MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3"
   }
-  
+}
